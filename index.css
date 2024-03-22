@@ -1,0 +1,78 @@
+.parent{
+    position: relative;
+}
+.headline ul li{
+    display: inline;
+}
+.top{
+    margin-left: 10%;
+    word-spacing: 5px;
+    font-size: 160%;
+    font-weight: 200;
+    position: absolute;
+}
+.nav{
+    margin-left: 30%;
+    word-spacing: 20px;
+    position: absolute;
+}
+.icon{
+    margin-left: 60%;
+    word-spacing: 10px;
+    position: absolute;
+}
+.Details{
+    position: absolute;
+}
+.p1{
+    margin-top:  150px;
+    font-weight: lighter;
+    word-spacing: 15px;
+    margin-left: 400px;
+}
+.p2{
+    margin-right: 300px;
+}
+.ready{
+    color: white;
+    background-color: palevioletred;
+    margin-left: 550px;
+}
+.page-two{
+    position: absolute;
+    margin-top: 550px;
+}
+h4{
+    margin-left: 500px;
+    color: black;
+    font-weight: 100;
+    font-style: normal;
+    font-feature-settings: "akhn";
+    font-size: small;
+    word-spacing: 10px;
+}
+h1{
+margin-left: 500px;
+font-weight: 300;
+font-style: normal;
+color: black;
+}
+.image ul li{
+    display: inline;
+    list-style-type: none;
+}
+.last{
+    margin-left: 500px;
+}
+
+.three-images{
+    display: flex;
+    flex-wrap: wrap;   
+}
+.image{
+    margin-left: 100px;
+}
+.open{
+    font-size: large;
+    font-weight: 300;
+}
