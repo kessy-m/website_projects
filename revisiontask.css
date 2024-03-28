@@ -1,0 +1,29 @@
+.words{
+    text-align: center;
+}
+.bottom .container .box .icons img{
+height: 50px;
+width:50px;
+border-radius: 50%;
+}
+.bottom .container .box{
+    margin-left: 50px;
+}
+
+.bottom .container .box .icons {
+    position: relative;
+}
+.bottom .container .box .icons .content{
+    position: absolute;
+    left: 60px;
+    top: 0;
+}
+.bottom .content{
+    display: flex;
+    justify-content: center;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+
